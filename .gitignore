@@ -175,3 +175,5 @@ cython_debug/
 *.pth
 data/
 dataset/
+checkpoints/
+ipynb_checkpoints/
