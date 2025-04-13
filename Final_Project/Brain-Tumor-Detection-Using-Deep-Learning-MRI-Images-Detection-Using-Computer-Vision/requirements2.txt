@@ -2,3 +2,6 @@ Pillow
 scikit-learn
 matplotlib-inline
 seaborn
+mplcyberpunk
+opencv-python
+tqdm
