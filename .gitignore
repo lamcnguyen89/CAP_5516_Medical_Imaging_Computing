@@ -177,3 +177,4 @@ data/
 dataset/
 checkpoints/
 ipynb_checkpoints/
+*.h5
