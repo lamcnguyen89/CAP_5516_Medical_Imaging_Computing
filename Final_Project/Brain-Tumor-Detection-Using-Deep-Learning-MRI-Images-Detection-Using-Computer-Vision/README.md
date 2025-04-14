@@ -10,4 +10,4 @@
 
 4. `conda install -c conda-forge tensorflow-gpu`
 
-5. `pip install -r requirements.txt`
+5. `pip install -r requirements2.txt`

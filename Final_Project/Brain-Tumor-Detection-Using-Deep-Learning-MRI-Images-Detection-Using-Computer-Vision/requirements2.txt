@@ -5,3 +5,9 @@ seaborn
 mplcyberpunk
 opencv-python
 tqdm
+pandas
+seaborn
+mplcyberpunk
+opencv-python
+scikit-learn
+tqdm
