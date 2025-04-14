@@ -11,3 +11,8 @@
 4. `conda install -c conda-forge tensorflow-gpu`
 
 5. `pip install -r requirements2.txt`
+
+
+### Google Slide Links: 
+
+Presentation Slides: https://docs.google.com/presentation/d/1Wuhcuu8D9OTv0E0Z3ERFd_GjiUrIqMeSpvXxnZ34ox4/edit?slide=id.p1#slide=id.p1
