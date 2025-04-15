@@ -11,3 +11,4 @@ mplcyberpunk
 opencv-python
 scikit-learn
 tqdm
+ipywidgets
